@@ -1,12 +1,13 @@
 {
   "name": "notes-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/abhishekjaiswal730/ReactNotesAPP",
+  "homepage": "https://abhishekjaiswal730.github.io/ReactNotesAPP/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "build": "^0.1.4",
     "gh-pages": "^6.1.1",
     "nanoid": "^5.0.5",
     "react": "^18.2.0",
