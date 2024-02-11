@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/abhishekjaiswal730/ReactNotesAPP/static/css/main.40d2c804.css",
-    "main.js": "/abhishekjaiswal730/ReactNotesAPP/static/js/main.67629bca.js",
-    "index.html": "/abhishekjaiswal730/ReactNotesAPP/index.html",
-    "main.40d2c804.css.map": "/abhishekjaiswal730/ReactNotesAPP/static/css/main.40d2c804.css.map",
-    "main.67629bca.js.map": "/abhishekjaiswal730/ReactNotesAPP/static/js/main.67629bca.js.map"
+    "main.css": "/ReactNotesAPP/static/css/main.40d2c804.css",
+    "main.js": "/ReactNotesAPP/static/js/main.67629bca.js",
+    "index.html": "/ReactNotesAPP/index.html",
+    "main.40d2c804.css.map": "/ReactNotesAPP/static/css/main.40d2c804.css.map",
+    "main.67629bca.js.map": "/ReactNotesAPP/static/js/main.67629bca.js.map"
   },
   "entrypoints": [
     "static/css/main.40d2c804.css",
