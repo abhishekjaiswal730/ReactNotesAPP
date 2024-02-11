@@ -6,7 +6,7 @@ const SearchNote = ({ handleSearch }) => {
       <input
         type="text"
         placeholder="Find your notes..."
-        onChange={(e) => handleSearch(e.target.value)}
+        onChange={(e) => handleSearch(e.target.value.toLowerCase())}
       />
       <span className="search-icon">
         {" "}
